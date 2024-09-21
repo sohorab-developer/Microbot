@@ -1,0 +1,1 @@
+decrypt_and_redirect.js
